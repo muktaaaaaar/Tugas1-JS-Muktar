@@ -1,0 +1,35 @@
+a:link{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: blue;
+}
+body{
+    background-color: #dcc9a3;
+    
+}
+table, th, td {
+    border: 4px black solid;
+    border-radius: 1px;
+    font-weight: bolder;
+    background-color: #EAC696;
+  }
+body{
+    background-image: url(https://i.postimg.cc/hPdwSTJT/no.png);
+    text-align: center;
+}
+
+
+
+tr{
+    text-align: justify;
+}
+th{
+    background-color: #ac7f47;
+    text-align: center;
+    color: #231300;
+}

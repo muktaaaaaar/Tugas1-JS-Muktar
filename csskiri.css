@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://i.postimg.cc/zfc6zjkw/no-1.png);
+}
+fieldset{
+    border-style: dotted dashed solid double;
+    border-radius: 2em;
+    border-color: black;
+    box-sizing: 6px;
+    background-color: #EAC696;
+}
+legend{
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+.sidekiri{
+    list-style-image: url(gif.gif);
+    font-weight: bolder;
+}
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+color: blue;
+}
+
+a:active{
+    color: red;
+}

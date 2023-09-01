@@ -1,0 +1,66 @@
+a:visited{
+    color: #000000;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: blue;
+}
+img{
+    float: left;
+    filter: drop-shadow(8px 7px 4px #000000);
+}
+.ised{
+    background-color: #EAC696;
+}
+h1{
+    align-items: center;
+    color: red;
+}
+body{
+    background-image: url(https://i.postimg.cc/tgzBmzst/dua.png);
+}
+legend, fieldset{
+    border: 5px outset rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    background-color: #765827;
+    padding: 5px;
+    border-radius: 30px;
+    background-image: linear-gradient(to right, #EAC696, #C8AE7D, #bb9456, #ac7f47 );
+} 
+.mr{
+    text-shadow: 9px 12px 15px black;
+}
+p{
+    text-align: justify;
+    font-size: 16px;
+}
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+.p1::first-letter{
+    text-align: justify;
+    font-size: 30pt;
+    color: red;
+}
+hr{
+    border: 3px black solid;
+}
+*{
+    font-weight: bold;
+}
